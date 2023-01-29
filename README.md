@@ -122,11 +122,13 @@ Execute the program
 </html>
 ```
 
-# OUPUT
-![OUTPUT](./image/output.png)
+# OUPUT:
+
+![output](https://user-images.githubusercontent.com/119400845/215321157-2c4dcfb2-b0ca-49f8-9d2c-f5dda4e602ec.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](./image/valid.png)
+
+![Screenshot_20230129_041840](https://user-images.githubusercontent.com/119400845/215321202-b50f2370-07d0-47c2-b33d-bd03dd084406.png)
 
 # RESULT
-The program for creating slot time table is completed successfully
+The program for creating slot time table is completed successfully!
